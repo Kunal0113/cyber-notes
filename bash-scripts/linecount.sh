@@ -2,7 +2,7 @@
 #
 # Script Name: linecount.sh
 # Description: Counts the number of lines in a given file
-# Author:      Your Name
+# Author:      Kunal Patil
 # Date:        2026-06-23
 # Usage:       ./linecount.sh <filename>
 
